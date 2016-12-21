@@ -8,7 +8,17 @@ This application is a universal blog application using React.  The application f
 
 - In terminal, navigate to the universal-blog directory
 - Run 'npm install'
+
+#### For Development
+
 - Run 'npm run development'
+- Go to 'http://localhost:8080' in your browser
+- To exit, press Ctrl+C
+
+#### For Production
+
+- Run 'npm start'
+- Go to 'http://localhost:3000' in your browser
 - To exit, press Ctrl+C
 
 ## Author
